@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4423" started-at="2022-04-10T11:22:40Z" finished-at="2022-04-10T11:22:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4423" started-at="2022-04-10T11:22:40Z" finished-at="2022-04-10T11:22:44Z">
+      <class name="org.tested.stepdeff">
+        <test-method status="PASS" signature="create()[pri:0, instance:org.tested.stepdeff@340f438e]" name="create" duration-ms="4391" started-at="2022-04-10T16:52:40Z" finished-at="2022-04-10T16:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- org.tested.stepdeff -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
